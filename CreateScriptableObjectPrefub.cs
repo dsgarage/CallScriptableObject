@@ -4,8 +4,13 @@ using UnityEditor;
 using System.IO;
 
 /// <summary>
-/// Create scriptable object prefub.
+// ScriptableObjectをプレハブとして出力する汎用スクリプト  
 /// </summary>
+// <remarks>
+// 指定したScriptableObjectをプレハブに変換する。
+// 1.Editorフォルダ下にCreateScriptableObjectPrefub.csを配置  
+// 2.ScriptableObjectのファイルを選択して右クリック→Create ScriptableObjectを選択  
+// </remarks>
 public class CreateScriptableObjectPrefub
 {
   readonly static string[] labels = {"Data", "ScriptableObject"};
