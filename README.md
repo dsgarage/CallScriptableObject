@@ -13,8 +13,8 @@ http://terasur.blog.fc2.com/?tag=ScriptableObject<br>
 http://terasur.blog.fc2.com/blog-entry-426.html<br>
 <br>
 
-使用手順
-1.CreateScriptableObjectPrefub.csをEditorフォルダに配置
-2.ScriptableObjectを継承したクラスを作成(public class hoge:ScriptableObject{})
-3.2で作ったオブジェクトを選択して右クリック→[Create ScriptableObject]を選択
-4.元のクラスと同じディレクトリにPrefabが作成され、移動は不可能
+使用手順<br>
+1.CreateScriptableObjectPrefub.csをEditorフォルダに配置<br>
+2.ScriptableObjectを継承したクラスを作成(public class hoge:ScriptableObject{})<br>
+3.2で作ったオブジェクトを選択して右クリック→[Create ScriptableObject]を選択<br>
+4.元のクラスと同じディレクトリにPrefabが作成され、移動は不可能<br>
